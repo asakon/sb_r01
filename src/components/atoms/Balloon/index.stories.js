@@ -6,4 +6,5 @@ import Balloon from './index.js';
 
 export default { title: 'Balloon' };
 
-export const withText = () => <span class="balloon">削除する</span>;
+export const with2LettersLabal = () => <span class="balloon">次へ</span>;
+export const with4LettersLabel = () => <span class="balloon">削除する</span>;
