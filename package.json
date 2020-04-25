@@ -1,5 +1,25 @@
 {
-  "scripts" : {
+  "name": "sb_r01",
+  "version": "0.0.1",
+  "description": "learning storybook",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
     "storybook": "start-storybook"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asakon/sb_r01.git"
+  },
+  "author": "asakon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asakon/sb_r01/issues"
+  },
+  "homepage": "https://github.com/asakon/sb_r01#readme"
 }
